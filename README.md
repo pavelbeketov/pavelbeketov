@@ -21,13 +21,10 @@ Currently focused on data analytics, exploring user behavior, business metrics, 
 
 Synthetic SaaS dataset with 50,000 users, designed for analyzing conversion funnels, retention, subscriptions, and revenue using SQL and Python.
 
-### [EVE Online Trading](https://github.com/pavelbeketov/Regular-trading-eve)
+### [EVE Online Trading](https://github.com/pavelbeketov/PathOfTradeNewEden)
 
 Python project focused on market data, trading opportunities, and profitability calculations.
 
-### [Blender Quick Model Handler](https://github.com/pavelbeketov/Blender-Quick-Model-Handler)
-
-Python automation project for streamlining repetitive 3D data processing workflows.
 
 ## Connect
 
