@@ -6,7 +6,7 @@ I'm a technical professional with a background in Python automation, data proces
 
 Currently focused on data analytics, exploring user behavior, business metrics, and data-driven decision-making.
 
-📍 Haifa, Israel
+📍 Tel Aviv, Israel
 
 ## Tech Stack
 
