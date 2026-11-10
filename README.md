@@ -17,13 +17,12 @@ Currently focused on data analytics, exploring user behavior, business metrics, 
 
 ## Featured Projects
 
-### [SaaS Product Analytics Lab](https://github.com/pavelbeketov/saas_product_analytics_dataset)
 
-Synthetic SaaS dataset with 50,000 users, designed for analyzing conversion funnels, retention, subscriptions, and revenue using SQL and Python.
+### 
 
-### [EVE Online Trading](https://github.com/pavelbeketov/PathOfTradeNewEden)
 
-Python project focused on market data, trading opportunities, and profitability calculations.
+### 
+
 
 
 ## Connect
