@@ -1,6 +1,6 @@
 # Paul Beketov
 
-**Data Analyst | SQL • Python • Product Analytics**
+**Data Analyst | SQL · Python · Tableau**
 
 I'm a technical professional with a background in Python automation, data processing, and research software.
 
